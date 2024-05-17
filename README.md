@@ -24,6 +24,26 @@ In terms of work experience, Developers may have experience in front-end develop
 
 Overall, I am passionate about my work, stay up-to-date with the latest trends and technologies, and am dedicated to delivering high-quality, user-friendly web solutions that meet the needs of my clients and users.</p>
 
+<table width="100%" >
+
+ <tr>
+    <td width="60%">
+     
+## 🛠️ Skills
+
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+
+
+</td>
+
+
 # Education
  - B.Sc. in Computer Science & Engineering<br>
  Leading University <b>(BUBT)</b><br>
