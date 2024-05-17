@@ -43,6 +43,23 @@ Overall, I am passionate about my work, stay up-to-date with the latest trends a
 
 </td>
 
+        <td>
+  
+## 📄📜 Stats
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Muntahi-Safwan&theme=radical&show_icons=true" />
+ </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muntahi-Safwan&theme=radical"/>
+ </br>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntahi-Safwan&theme=radical&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact" />
+</p>
+     
+  </td>
+ </tr>
+</table>
+
+--
 
 # Education
  - B.Sc. in Computer Science & Engineering<br>
