@@ -51,7 +51,6 @@ Dhaka, Bangladesh.
  --------------------------------
 
 <h2 align="center">Come again, "Tata"</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MishkatIT&label=Profile%20views&color=0e75b6&style=flat" alt="MishkatIT" /> </p>
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
