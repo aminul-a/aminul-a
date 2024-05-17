@@ -29,16 +29,7 @@ In terms of work experience, Developers may have experience in front-end develop
 
 Overall, I am passionate about my work, stay up-to-date with the latest trends and technologies, and am dedicated to delivering high-quality, user-friendly web solutions that meet the needs of my clients and users.</p>
 
-### My Skills :
 
-<br>
-
-<a href="#"><img src="images/html5.svg" alt="HTML" style="height:50px; margin-right: 20px;" ></a>
-<a href="#"><img src="images/css3.svg" alt="CSS" style="height:50px; margin-right: 20px;"></a>
-<a href="#"><img src="images/c.svg" alt="C" style="height:50px; margin-right: 20px;"></a>
-<a href="#"><img src="images/c++.svg" alt="C++" style="height:50px; margin-right: 20px;"></a>
-
-<br>
 
 # Education
  - B.Sc. in Computer Science & Engineering<br>
