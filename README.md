@@ -1,7 +1,7 @@
  <h1 align="center">👋Hello, I'm Aminul Islam</h1> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&center=true&vCenter=true&lines=Competitive+Programmer;Freelancer+at+Fiverr;Good+Listener;Self+Learner"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&center=true&vCenter=true&lines=Competitive+Programmer;Good+Listener;Self+Learner"><br>
 </p>
 
 <br>
