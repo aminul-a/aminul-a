@@ -22,6 +22,7 @@ Expert on:
 - Coding
 - WordPress
 - Elementor Pro
+- Data Entry
 
 I am also highly detail-oriented and have a strong problem-solving mindset. I am able to analyze complex problems and develop effective solutions in a timely manner. I am comfortable working independently or as part of a team and am able to communicate effectively with both technical and non-technical stakeholders.
 
